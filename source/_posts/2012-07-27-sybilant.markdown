@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Sybilant"
+date: 2012-07-27 14:50
+comments: true
+categories: sybilant
+---
+Sybilant
+========
+
+Sybilant is a work-in-progress.  It is something I have been noodling
+on for a long time that is coming to fruition.
+
